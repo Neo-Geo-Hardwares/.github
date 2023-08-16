@@ -16,6 +16,10 @@ Their is a lot of usefull resources, but so far I never seen any "modern" or goo
 
 This project is trying to re-create schemactics for the Neo-Geo from the existing copy.
 
+## About the author
+
+Some words about me, Frater, I'm working on this project as an hobbyiest, trying to fix some of my MVS board.
+
 ## AES
 
 TBD
