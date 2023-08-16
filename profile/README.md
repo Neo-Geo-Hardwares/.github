@@ -15,7 +15,25 @@ TBD
 
 ## MVS
 
-TBD
+The Neo Geo originally launched as the Multi Video System (MVS) coin-operated arcade machine. With its games stored on self-contained cartridges, a game cabinet can easily be changed to a different game title by swapping the game's cartridge and cabinet artwork.
+
+serverals hardware revision exist:
+ * MV1(T)
+ * MV1A
+ * MV1ACH
+ * MV1AX
+ * MV1B
+ * MV1B1
+ * MV1C
+ * [MV1F(S)](https://github.com/Neo-Geo-Hardwares/Schematics-MV1F)
+ * MV1FZ(S)
+ * MV2B
+ * MV2F
+ * MV2FS
+ * MV4
+ * MV4F(S)
+ * MV4FT
+ * MV6
 
 ## Usefull sources used for thoses repos.
 
