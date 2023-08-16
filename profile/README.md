@@ -20,9 +20,11 @@ This project is trying to re-create schemactics for the Neo-Geo from the existin
 
 Some words about me, Frater, I'm working on this project as an hobbyiest, trying to fix some of my MVS board.
 
-## AES
+## Methodology
 
-TBD
+I do use an edited photo with the underlayer PCB "visible" over the top layer.
+
+![under and upper layers]()
 
 ## MVS
 
