@@ -9,6 +9,13 @@ With its games stored on self-contained cartridges, a game cabinet can easily be
 The Neo Geo was marketed as the first 24-bit system; its CPU is actually a 16/32-bit 68000 with an 8-bit Z80 coprocessor, while its GPU chipset has a 24-bit graphics data bus.
 It was design as two separate (but compatible) market branches MVS and AES.
 
+## Why this project
+
+Until now, only poorly scanned schematics documentation is available and for only one AES model and one MVS, despite an huge communities, no good scan or documents exist.
+Their is a lot of usefull resources, but so far I never seen any "modern" or good scan schematics.
+
+This project is trying to re-create schemactics for the Neo-Geo from the existing copy.
+
 ## AES
 
 TBD
