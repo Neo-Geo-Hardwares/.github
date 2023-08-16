@@ -38,7 +38,7 @@ serverals hardware revision exist:
  * MV1B
  * MV1B1
  * MV1C
- * [MV1F(S)](Neo-Geo-Hardwares/Schematics-MV1F)
+ * [MV1F(S)](https://github.com/Neo-Geo-Hardwares/Schematics-MV1F)
  * MV1FZ(S)
  * MV2B
  * MV2F
