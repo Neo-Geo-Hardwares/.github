@@ -24,7 +24,7 @@ Some words about me, Frater, I'm working on this project as an hobbyiest, trying
 
 I do use an edited photo with the underlayer PCB "visible" over the top layer.
 
-![under and upper layers]()
+![under and upper layers](https://github.com/Neo-Geo-Hardwares/.github/blob/main/img/Board-2layers.png)
 
 ## MVS
 
