@@ -24,7 +24,7 @@ Some words about me, Frater, I'm working on this project as an hobbyiest, trying
 
 I do use an edited photo with the underlayer PCB "visible" over the top layer.
 
-![under and upper layers](https://github.com/Neo-Geo-Hardwares/.github/blob/main/img/Board-2layers.png)
+![under and upper layers](/img/Board-2layers.png)
 
 ## MVS
 
@@ -38,7 +38,7 @@ serverals hardware revision exist:
  * MV1B
  * MV1B1
  * MV1C
- * [MV1F(S)](https://github.com/Neo-Geo-Hardwares/Schematics-MV1F)
+ * [MV1F(S)](Neo-Geo-Hardwares/Schematics-MV1F)
  * MV1FZ(S)
  * MV2B
  * MV2F
